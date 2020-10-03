@@ -42,4 +42,6 @@ Git push.
 
 Any issue then contact us in the below links.
 [Linkedin](https://www.linkedin.com/in/hari-om-kushwaha-6a698a192 "Hari Om")
+
+<br/>
 [instagram](_itzhari__ "Hari Om")
