@@ -4,7 +4,7 @@
 * Clone It
 
 ***
-<img src="https://user-images.githubusercontent.com/70543351/94982827-87984c00-055b-11eb-85ec-737733e88061.png" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/70543351/94982827-87984c00-055b-11eb-85ec-737733e88061.png" width="600" height="300" />
 
 
 ## How to Contribute
