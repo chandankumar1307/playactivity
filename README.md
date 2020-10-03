@@ -4,7 +4,7 @@
 * Clone It
 
 ***
-<img src="https://camo.githubusercontent.com/f5cf5baea81cc12730b4c42922a279e764699717/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7855504747444e734c767173424f687555302f67697068792e676966" />
+![image](https://user-images.githubusercontent.com/70543351/94982802-312b0d80-055b-11eb-8e71-8759fedbfb9b.png)
 
 ## How to Contribute
 
