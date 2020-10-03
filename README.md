@@ -9,8 +9,6 @@
 * Fork a Repo
 * Clone It
 
-***
-
 
 ## How to Contribute
 
