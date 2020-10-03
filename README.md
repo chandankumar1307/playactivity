@@ -4,7 +4,8 @@
 * Clone It
 
 ***
-![image](https://user-images.githubusercontent.com/70543351/94982802-312b0d80-055b-11eb-8e71-8759fedbfb9b.png)
+![image](https://user-images.githubusercontent.com/70543351/94982827-87984c00-055b-11eb-85ec-737733e88061.png)
+
 
 ## How to Contribute
 
